@@ -1,6 +1,9 @@
 # Issue Report #
 
-## Bug ##
+### What is the issue type? ###
+
+* [ ] Bug report
+* [ ] Enhancement request
 
 ### OpenMandriva Version ###
 
