@@ -14,27 +14,7 @@ NAME=OpenMandriva
 BUG_REPORT_URL="https://github.com/OpenMandrivaAssociation/OpenMandrivaLx/issues"
 ```
 
-### Environment ###
+### Description ###
 
-What hardware/cloud provider/hypervisor is being used to run OpenMandriva?
 
-### Expected Behavior ###
 
-### Actual Behavior ###
-
-### Reproduction Steps ###
-
-  1. ...
-  2. ...
-
-### Other Information ###
-
-## Feature Request ##
-
-### Environment ###
-
-What hardware/cloud provider/hypervisor is being used to run OpenMandriva?
-
-### Desired Feature ###
-
-### Other Information ###
