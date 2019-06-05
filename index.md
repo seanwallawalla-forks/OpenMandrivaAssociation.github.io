@@ -5,5 +5,3 @@ OpenMandriva Lx comes from a 100% community-driven association that believes in 
 
 ### Support and Contact
 Please visit our page www.openmandriva.org
-
-[Waffle board](https://waffle.io/OpenMandrivaAssociation/OpenMandrivaLx)
