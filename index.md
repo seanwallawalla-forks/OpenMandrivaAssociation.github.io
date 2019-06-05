@@ -4,4 +4,4 @@ OpenMandriva Lx is an exciting free Desktop Operating System that aims to cater 
 OpenMandriva Lx comes from a 100% community-driven association that believes in the values of free software & collaboration and whose founding values are development, equality, co-operation, openness, freedom, group achievement, independence, and solidarity.
 
 ### Support and Contact
-Please visit our main page(www.openmandriva.org)
+Please visit our [homepage](www.openmandriva.org)
