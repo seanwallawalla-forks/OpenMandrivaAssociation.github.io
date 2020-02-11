@@ -5,3 +5,6 @@ OpenMandriva Lx comes from a 100% community-driven association that believes in 
 
 ### Support and Contact
 Please visit our [main page](https://www.openmandriva.org)
+
+### Chat with us
+[![Join the chat at https://riot.im/app/#/room/#openmandriva-cooker:matrix.org](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?style=plastic)](https://riot.im/app/#/room/#openmandriva-cooker:matrix.org) or join #openmandriva-cooker at freenode.net
