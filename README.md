@@ -2,7 +2,7 @@
 
 # Introduction
 
-![OpenMandriva](https://img.shields.io/matrix/openmandriva:matrix.org?style=plastic) or join #openmandriva-cooker at freenode.net
+[![Join the chat at https://riot.im/app/#/room/#openmandriva-cooker:matrix.org](https://img.shields.io/matrix/openmandriva-cooker:matrix.org?style=plastic)](https://riot.im/app/#/room/#openmandriva-cooker:matrix.org) or join #openmandriva-cooker at freenode.net
 
 OpenMandriva Lx is an exciting free Desktop Operating System that aims to cater
 to and interest first time and advanced users alike. It has the breadth and 
