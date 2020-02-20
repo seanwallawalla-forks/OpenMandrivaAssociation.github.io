@@ -1,3 +1,7 @@
+Warning!!!
+
+Please go to https://issues.openmandriva.org if you want to report any problem or feature.
+
 # Issue Report #
 
 ### What is the issue type? ###
@@ -10,8 +14,6 @@
 ```
 $ cat /etc/os-release
 NAME=OpenMandriva
-...
-BUG_REPORT_URL="https://github.com/OpenMandrivaAssociation/OpenMandrivaLx/issues"
 ```
 
 ### Description ###
