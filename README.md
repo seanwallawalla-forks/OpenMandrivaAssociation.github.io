@@ -1,7 +1,7 @@
 # OpenMandrivaLx
 
 # Introduction
-[![Join the chat at https://riot.im/app/#/room/#openmandriva-cooker:matrix.org](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?style=plastic)](https://riot.im/app/#/room/#openmandriva-cooker:matrix.org) or join #openmandriva-cooker at freenode.net
+[![Join the chat at https://app.element.io/#/room/#openmandriva-cooker:matrix.org](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?style=plastic)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or join #openmandriva-cooker at freenode.net
 
 
 ## The OpenMandriva Association
