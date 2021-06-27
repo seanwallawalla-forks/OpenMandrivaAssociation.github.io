@@ -1,7 +1,7 @@
 # OpenMandrivaLx
 
 # Introduction
-[![Join the chat at https://app.element.io/#/room/#openmandriva-cooker:matrix.org](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?style=plastic)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or join #openmandriva-cooker at freenode.net
+[![Join the chat at https://app.element.io/#/room/#openmandriva-cooker:matrix.org](https://img.shields.io/matrix/openmandriva-cooker:matrix.org.svg?style=plastic)](https://app.element.io/#/room/#openmandriva-cooker:matrix.org) or join #openmandriva-cooker at [libera.chat](https://web.libera.chat/)
 
 
 ## The OpenMandriva Association
@@ -30,6 +30,9 @@ Participate in building OpenMandriva and making it even better
 
 ## Issues
 [Report an issue or new feature](https://issues.openmandriva.org)
+
+## Pull Requests
+[Browse pull requests](https://github.com/pulls?user=OpenMandrivaAssociation)
 
 ## Donate
 [Donate us to help with development](https://liberapay.com/OpenMandriva/donate)
